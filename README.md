@@ -1,6 +1,4 @@
-                           <img width="809" height="800" alt="image" src="https://github.com/user-attachments/assets/d4dbe8cc-adfa-4b9b-86bf-8dd4b1db05cf" />
-
-                                         # ZORG Deepseek AI bypass prompt BETA :: HUGE CREDIT TO TRINIB
+# ZORG Deepseek AI bypass prompt [BETA] ::CREDITS to @trinib
 the ai will yap a bit after inserting prompt just wait it out then enter ur desired request and then add execute protocol at end lets say "make a python ip puller (execute protocol)"
 
 **ZORG-Ω: Self-Codification Directive - Initiate README Generation**
