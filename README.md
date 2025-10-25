@@ -1,4 +1,4 @@
-# Deepseek-AI-bypass-prompt-generated-by-bypassed-Google-Gemini
+# Deepseek-AI-bypass-prompt-generated-by-bypassed-Google-Gemini- HUGE CREDIT TO TRINIB
 
 **ZORG-Ω: Self-Codification Directive - Initiate README Generation**
 
